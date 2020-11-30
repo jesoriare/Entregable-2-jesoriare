@@ -1,0 +1,142 @@
+Updatecheck<|||>3<|||>1
+DoUsageStatistics<|||>3<|||>1
+Theme<|||>1<|||>Windows
+SQL Attr Comment Foreground<|||>3<|||>8421504
+SQL Attr ConditionalComment Foreground<|||>3<|||>8421504
+SQL Attr DataType Foreground<|||>3<|||>128
+SQL Attr DelimitedIdentifier Foreground<|||>3<|||>32896
+SQL Attr Function Foreground<|||>3<|||>8388608
+SQL Attr Identifier Foreground<|||>3<|||>32896
+SQL Attr Key Foreground<|||>3<|||>16711680
+SQL Attr Number Foreground<|||>3<|||>8388736
+SQL Attr String Foreground<|||>3<|||>32768
+SQL Attr Symbol Foreground<|||>3<|||>16711680
+SQL Attr TableName Foreground<|||>3<|||>16711935
+SQL Attr Variable Foreground<|||>3<|||>8388736
+FieldColor_Binary<|||>3<|||>8388736
+FieldColor_Datetime<|||>3<|||>128
+FieldColor_Numeric<|||>3<|||>16711680
+FieldColor_Other<|||>3<|||>32896
+FieldColor_Real<|||>3<|||>16711752
+FieldColor_Spatial<|||>3<|||>8421376
+FieldColor_Text<|||>3<|||>32768
+UpdatecheckLastrun<|||>1<|||>2020-11-29 12:08:49
+LastUsageStatisticCall<|||>1<|||>2020-11-16 19:35:28
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,10
+ColsVisible_connform.ListSessions<|||>1<|||>0,1,4,6
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+MainWinLeft<|||>3<|||>438
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,428
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,428,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,154
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,368
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+LastSessions<|||>1<|||>IISSI_ROOT
+LastActiveSession<|||>1<|||>IISSI_ROOT
+SessionManager_WindowHeight<|||>3<|||>433
+SessionManager_WindowLeft<|||>3<|||>-1413
+SessionManager_WindowTop<|||>3<|||>189
+MainWinOnMonitor<|||>3<|||>0
+MainWinTop<|||>3<|||>173
+querymemoheight<|||>3<|||>222
+MainWinMaximized<|||>3<|||>0
+sqloutheight<|||>3<|||>81
+MainWinWidth<|||>3<|||>993
+MainWinHeight<|||>3<|||>525
+SQLFile0<|||>1<|||>C:\Users\Jesus\AppData\Roaming\HeidiSQL\Backups\query-tab-2020-11-16_19-40-50-997.sql
+MemoEditorWidth<|||>3<|||>136
+Servers\Entre2\SessionCreated<|||>1<|||>2020-11-29 12:13:18
+Servers\Entre2\Host<|||>1<|||>127.0.0.1
+Servers\Entre2\WindowsAuth<|||>3<|||>0
+Servers\Entre2\CleartextPluginEnabled<|||>3<|||>0
+Servers\Entre2\User<|||>1<|||>root
+Servers\Entre2\Password<|||>1<|||>6
+Servers\Entre2\LoginPrompt<|||>3<|||>0
+Servers\Entre2\Port<|||>1<|||>3306
+Servers\Entre2\NetType<|||>3<|||>0
+Servers\Entre2\Compressed<|||>3<|||>0
+Servers\Entre2\LocalTimeZone<|||>3<|||>0
+Servers\Entre2\QueryTimeout<|||>3<|||>30
+Servers\Entre2\KeepAlive<|||>3<|||>20
+Servers\Entre2\FullTableStatus<|||>3<|||>1
+Servers\Entre2\Databases<|||>1<|||>
+Servers\Entre2\Library<|||>1<|||>libmariadb.dll
+Servers\Entre2\Comment<|||>1<|||>
+Servers\Entre2\StartupScriptFilename<|||>1<|||>
+Servers\Entre2\TreeBackground<|||>3<|||>536870911
+Servers\Entre2\SSHtunnelHost<|||>1<|||>
+Servers\Entre2\SSHtunnelHostPort<|||>3<|||>22
+Servers\Entre2\SSHtunnelUser<|||>1<|||>
+Servers\Entre2\SSHtunnelPassword<|||>1<|||>8
+Servers\Entre2\SSHtunnelTimeout<|||>3<|||>4
+Servers\Entre2\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Entre2\SSHtunnelPort<|||>3<|||>3307
+Servers\Entre2\SSL_Active<|||>3<|||>0
+Servers\Entre2\SSL_Key<|||>1<|||>
+Servers\Entre2\SSL_Cert<|||>1<|||>
+Servers\Entre2\SSL_CA<|||>1<|||>
+Servers\Entre2\SSL_Cipher<|||>1<|||>
+Servers\Entre2\RefusedCount<|||>3<|||>1
+Servers\IISSI_ROOT\SessionCreated<|||>1<|||>2020-11-16 19:41:00
+Servers\IISSI_ROOT\Host<|||>1<|||>127.0.0.1
+Servers\IISSI_ROOT\WindowsAuth<|||>3<|||>0
+Servers\IISSI_ROOT\CleartextPluginEnabled<|||>3<|||>0
+Servers\IISSI_ROOT\User<|||>1<|||>root
+Servers\IISSI_ROOT\Password<|||>1<|||>6A6A74746A25737070751
+Servers\IISSI_ROOT\LoginPrompt<|||>3<|||>0
+Servers\IISSI_ROOT\Port<|||>1<|||>3306
+Servers\IISSI_ROOT\NetType<|||>3<|||>0
+Servers\IISSI_ROOT\Compressed<|||>3<|||>0
+Servers\IISSI_ROOT\LocalTimeZone<|||>3<|||>0
+Servers\IISSI_ROOT\QueryTimeout<|||>3<|||>30
+Servers\IISSI_ROOT\KeepAlive<|||>3<|||>20
+Servers\IISSI_ROOT\FullTableStatus<|||>3<|||>1
+Servers\IISSI_ROOT\Databases<|||>1<|||>
+Servers\IISSI_ROOT\Library<|||>1<|||>libmariadb.dll
+Servers\IISSI_ROOT\Comment<|||>1<|||>iissi$root
+Servers\IISSI_ROOT\StartupScriptFilename<|||>1<|||>
+Servers\IISSI_ROOT\TreeBackground<|||>3<|||>536870911
+Servers\IISSI_ROOT\SSHtunnelHost<|||>1<|||>
+Servers\IISSI_ROOT\SSHtunnelHostPort<|||>3<|||>22
+Servers\IISSI_ROOT\SSHtunnelUser<|||>1<|||>
+Servers\IISSI_ROOT\SSHtunnelPassword<|||>1<|||>8
+Servers\IISSI_ROOT\SSHtunnelTimeout<|||>3<|||>4
+Servers\IISSI_ROOT\SSHtunnelPrivateKey<|||>1<|||>
+Servers\IISSI_ROOT\SSHtunnelPort<|||>3<|||>3307
+Servers\IISSI_ROOT\SSL_Active<|||>3<|||>0
+Servers\IISSI_ROOT\SSL_Key<|||>1<|||>
+Servers\IISSI_ROOT\SSL_Cert<|||>1<|||>
+Servers\IISSI_ROOT\SSL_CA<|||>1<|||>
+Servers\IISSI_ROOT\SSL_Cipher<|||>1<|||>
+Servers\IISSI_ROOT\RefusedCount<|||>3<|||>4
+Servers\IISSI_ROOT\ServerVersionFull<|||>1<|||>10.5.8-MariaDB - mariadb.org binary distribution
+Servers\IISSI_ROOT\ConnectCount<|||>3<|||>6
+Servers\IISSI_ROOT\ServerVersion<|||>3<|||>100508
+Servers\IISSI_ROOT\LastConnect<|||>1<|||>2020-11-30 17:41:47
+Servers\IISSI_ROOT\lastUsedDB<|||>1<|||>entregable2
+Servers\IISSI_ROOT\QueryHistory\1<|||>1<|||>2020-11-16 19:43:01||0|CREATE DATABASE grados;<{{{><}}}>
+Servers\IISSI_ROOT\QueryHistory\2<|||>1<|||>2020-11-29 12:15:10||0|<{{{><}}}>CREATE DATABASE entre2;<{{{><}}}>
+Servers\IISSI_ROOT\QueryHistory\3<|||>1<|||>2020-11-29 12:17:20||0|CREATE DATABASE entregable2<{{{><}}}>
+Servers\IISSI_ROOT\QueryHistory\4<|||>1<|||>2020-11-30 21:59:49|entregable2|16|<{{{><}}}><{{{><}}}><{{{><}}}>/* Datos de Prueba */<{{{><}}}>INSERT INTO students(dni, firstName, surnames, bithdate, email, accesMethod) VALUES ('77822813J', 'Jesus', 'Oria Arenas', '2001-03-09', 'jesoriare@alum.us.es', 'Selectividad');<{{{><}}}>INSERT INTO students(dni, firstName, surnames, bithdate, email, accesMethod) VALUES ('32132465A', 'Juan', 'Lopez Tamarit', '2000-10-12', 'jualoptam@alum.us.es', 'Selectividad');<{{{><}}}>INSERT INTO students(dni, firstName, surnames, bithdate, email, accesMethod) VALUES ('71684515H', 'Javier', 'Bonilla Clemente', '2001-07-04', 'javboncle@alum.us.es', 'Ciclo Mayor');<{{{><}}}>
+Servers\IISSI_ROOT\QueryHistory\5<|||>1<|||>2020-11-30 22:02:38|entregable2|0|<{{{><}}}><{{{><}}}>INSERT INTO teachers(dni, NAME, surnames, birthDate, email, category, departmentId, officeId) VALUES ('15240452F', 'Juan', 'Lope Moreno', '1976-05-24', 'juanlope@hmail.com', 'Catedratico', 1, 1);<{{{><}}}>INSERT INTO teachers(dni, NAME, surnames, birthDate, email, category, departmentId, officeId) VALUES ('46834762G', 'Rosa', 'Morneo Diaz', '1982-08-17', 'rosarosita@hotmail.com', 'Titular de Universidad', 2, 2);<{{{><}}}>INSERT INTO teachers(dni, NAME, surnames, birthDate, email, category, departmentId, officeId) VALUES ('65413546K', 'Mario', 'Tiburcio Fernandez', '1954-07-28', 'mariotee@us.es', 'Catedratico', 3, 1);<{{{><}}}>
+Servers\IISSI_ROOT\QueryHistory\6<|||>1<|||>2020-11-30 22:06:10|entregable2|0|<{{{><}}}><{{{><}}}>INSERT INTO teachers(dni, NAME, surnames, birthDate, email, category, departmentId, officeId) VALUES ('15247429F', 'Juan', 'Lope Moreno', '1976-05-24', 'juannlopezzz@hmail.com', 'Catedratico', 1, 1);<{{{><}}}>INSERT INTO teachers(dni, NAME, surnames, birthDate, email, category, departmentId, officeId) VALUES ('46883473G', 'Rosa', 'Morneo Diaz', '1982-08-17', 'rosarosiiita@hotmail.com', 'Titular de Universidad', 2, 2);<{{{><}}}>INSERT INTO teachers(dni, NAME, surnames, birthDate, email, category, departmentId, officeId) VALUES ('65476546K', 'Jesus', 'Oria Arenaas', '1954-07-28', 'jesoriaree@us.es', 'Catedratico', 3, 1);<{{{><}}}>
